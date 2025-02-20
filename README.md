@@ -1,5 +1,5 @@
 HR Analytics Dashboard
-![Entity Relationship Diagram](https://github.com/nishikanta24/SQL_Music-_Store_Analysis/blob/main/Query%20pics/ERD.png)
+![Power BI](https://github.com/nishikanta24/Hr-Analytics/blob/main/powerbi.png)
 This project presents an HR Analytics Dashboard designed to provide insights into employee attrition within a company. The dashboard visualizes various metrics, helping HR teams understand the factors contributing to employee turnover.
 
 Dashboard Overview
